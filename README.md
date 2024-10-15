@@ -1,1 +1,1 @@
-# previsao-vendas-rossmann
+![cover](assets/cover.jpg)
